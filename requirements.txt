@@ -5,4 +5,4 @@ python-dotenv
 tiktoken
 chromadb
 qdrant-client
-FAISS
+faiss-cpu
