@@ -6,3 +6,4 @@ tiktoken
 chromadb
 qdrant-client
 faiss-cpu
+langchain-community
