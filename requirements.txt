@@ -1,0 +1,8 @@
+openai
+langchain
+streamlit
+python-dotenv
+tiktoken
+chromadb
+qdrant-client
+FAISS
